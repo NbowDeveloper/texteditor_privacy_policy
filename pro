@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 Families Policy :
 
  our app's content that is accessible to children and made appropriate for children. we don't provide any adult contents.
-
+out app can contain third party codes.
 
 Information Collection and Use
 
